@@ -1,0 +1,17 @@
+**Database Name: oesm**
+
+**Developed by Pravin Akhilesh Pandey**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Student Login Details**
+
+Email   : tvapp360@gmail.com
+Password: rajan360
+
+
+**Admin Login Details**
+
+Email    : pravin@gmail.com
+Password : pravin
